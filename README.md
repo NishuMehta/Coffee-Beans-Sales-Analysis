@@ -3,7 +3,7 @@
 This project provides an in-depth analysis of coffee bean sales using an interactive **Excel dashboard**, which highlights trends and customer insights. It was created following a tutorial by **Mo Chen (YouTube)** and uses the **[Coffee Bean Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)** from Kaggle.
 
 🗝️ Key Features
-* **Sales Trend Analysis: Displays total sales trends from **August 2019 to June 2020**, broken down by coffee bean types (Arabica, Robusta, Liberica, Excelsa).
+* **Sales Trend Analysis:** Displays total sales trends from **August 2019 to June 2020**, broken down by coffee bean types (Arabica, Robusta, Liberica, Excelsa).
 * **Sales by Country:** Highlights revenue contributions from key regions: **United Kingdom, Ireland, and the United States**.
 * **Customer Insights:** Identifies top 5 customers by sales amount.
 * **Product Breakdown:** Analyzes coffee sizes (0.2 kg to 2.5 kg) and roast types (Light, Medium, Dark).
